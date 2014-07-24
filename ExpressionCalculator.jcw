@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ExpressionCalculator</label>
+	</settings>
+	<users>
+		<user>
+			<path>ExpressionCalculator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ExpressionCalculator.jcp</path>
+		</project>
+	</projects>
+</workspace>

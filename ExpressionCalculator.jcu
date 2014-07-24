@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>ExpressionCalculator</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>ExpressionCalculator</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+</workspace_user>
